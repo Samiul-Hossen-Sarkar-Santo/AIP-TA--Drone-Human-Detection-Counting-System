@@ -165,11 +165,11 @@ Potential future improvements include:
 
 ---
 
-# [Drone Human Detection & Tracking Demo video for 50 epochs](https://drive.google.com/file/d/1t7o5GQ4jCEBlBgWOzQdnABwSD1ymgCoI/view?usp=sharing)]
+# [Drone Human Detection & Tracking Demo video for 50 epochs](https://drive.google.com/file/d/1t7o5GQ4jCEBlBgWOzQdnABwSD1ymgCoI/view?usp=sharing)
 
 ---
 
 # Author
 
-Samiul Hossen  
+Samiul Hossen Sarkar Santo 
 Bangladesh University of Professionals
