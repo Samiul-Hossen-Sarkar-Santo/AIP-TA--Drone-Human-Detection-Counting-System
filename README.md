@@ -88,39 +88,39 @@ Reason for Selection:
 
 # Results
 
-## Dataset Samples
+## Dataset Samples for 50 epochs
 
 ![Dataset Samples](presentation_assets/dataset_samples.png)
 
 ---
 
-## Class Distribution
+## Class Distribution for 50 epochs
 
-![Class Distribution](presentation_assets/class_distribution.png)
-
----
-
-## Training Curves
-
-![Training Results](presentation_assets/results.png)
+![Class Distribution](presentation_assets_50_epoch/class_distribution_50_epoch.png)
 
 ---
 
-## Precision-Recall Curve
+## Training Curves for 50 epochs
 
-![PR Curve](presentation_assets/PR_curve.png)
-
----
-
-## Confusion Matrix
-
-![Confusion Matrix](presentation_assets/confusion_matrix_normalized.png)
+![Training Results](presentation_assets_50_epoch/results_50_epoch.png)
 
 ---
 
-## Human Counting Results
+## Precision-Recall Curve for 50 epochs
 
-![Counting Results](presentation_assets/counting_visualization.png)
+![PR Curve](presentation_assets_50_epoch/PR_curve_50_epoch.png)
+
+---
+
+## Confusion Matrix for 50 epochs
+
+![Confusion Matrix](presentation_assets_50_epoch/confusion_matrix_normalized_50_epoch.png)
+
+---
+
+## Human Counting Results for 50 epochs
+
+![Counting Results](presentation_assets_50_epoch/counting_visualization_50_epoch.png)
 
 ---
 
