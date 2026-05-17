@@ -165,22 +165,6 @@ Potential future improvements include:
 
 ---
 
-# Project Structure
-
-```text
-project/
-│
-├── notebook.ipynb
-├── weights/
-├── presentation_assets/
-├── inference_results/
-├── counting_results/
-├── tracking_results/
-└── README.md
-```
-
----
-
 # [[Drone Human Detection & Tracking Demo video for 50 epochs](https://drive.google.com/file/d/1t7o5GQ4jCEBlBgWOzQdnABwSD1ymgCoI/view?usp=sharing)]
 
 ---
