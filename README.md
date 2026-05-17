@@ -79,10 +79,10 @@ Reason for Selection:
 
 | Metric | Score |
 |---|---|
-| mAP50 | XX |
-| mAP50-95 | XX |
-| Precision | XX |
-| Recall | XX |
+| mAP50 | 0.5057 |
+| mAP50-95 | 0.2786 |
+| Precision | 0.6609 |
+| Recall | 0.4894 |
 
 ---
 
