@@ -90,7 +90,7 @@ Reason for Selection:
 
 ## Dataset Samples for 50 epochs
 
-![Dataset Samples](presentation_assets/dataset_samples.png)
+![Dataset Samples](presentation_assets_50_epoch/dataset_samples_50_epoch.png)
 
 ---
 
