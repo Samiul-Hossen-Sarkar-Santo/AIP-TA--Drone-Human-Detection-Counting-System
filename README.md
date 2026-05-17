@@ -75,7 +75,7 @@ Reason for Selection:
 
 ---
 
-# Evaluation Metrics
+# Evaluation Metrices for 50 Epochs
 
 | Metric | Score |
 |---|---|
@@ -86,7 +86,7 @@ Reason for Selection:
 
 ---
 
-# Results
+# Results for 50 Epochs
 
 ## Dataset Samples for 50 epochs
 
